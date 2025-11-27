@@ -1,0 +1,257 @@
+{
+  "lockfile-version": 1,
+  "manifest": {
+    "version": 1,
+    "install": {
+      "pandas": {
+        "pkg-path": "python313Packages.pandas"
+      },
+      "python3": {
+        "pkg-path": "python3"
+      }
+    },
+    "hook": {},
+    "profile": {},
+    "options": {}
+  },
+  "packages": [
+    {
+      "attr_path": "python313Packages.pandas",
+      "broken": false,
+      "derivation": "/nix/store/mpzlxhsylap7pkrq5a2aan9njax5py39-python3.13-pandas-2.3.1.drv",
+      "description": "Powerful data structures for data analysis, time series, and statistics",
+      "install_id": "pandas",
+      "license": "BSD-3-Clause",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "name": "python3.13-pandas-2.3.1",
+      "pname": "pandas",
+      "rev": "5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "rev_count": 901419,
+      "rev_date": "2025-11-24T06:39:56Z",
+      "scrape_date": "2025-11-26T02:54:35.695225Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.3.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/a0lcm4aybxp6dfl4ppwxwrmwdh0k2598-python3.13-pandas-2.3.1-dist",
+        "out": "/nix/store/dq79whzxrrdlqd2g7sl8j2iqq4akqyc4-python3.13-pandas-2.3.1"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python313Packages.pandas",
+      "broken": false,
+      "derivation": "/nix/store/sn9ly32k674ah72cj48nhqhzpcl0wsha-python3.13-pandas-2.3.1.drv",
+      "description": "Powerful data structures for data analysis, time series, and statistics",
+      "install_id": "pandas",
+      "license": "BSD-3-Clause",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "name": "python3.13-pandas-2.3.1",
+      "pname": "pandas",
+      "rev": "5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "rev_count": 901419,
+      "rev_date": "2025-11-24T06:39:56Z",
+      "scrape_date": "2025-11-26T03:04:24.594576Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.3.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/d7bk3hq3j3g3rjzjfdp2f05zmhm93zp3-python3.13-pandas-2.3.1-dist",
+        "out": "/nix/store/l42y65j0x8zdjjkxzs30igvg1231ancv-python3.13-pandas-2.3.1"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python313Packages.pandas",
+      "broken": false,
+      "derivation": "/nix/store/4zi5an71947lb4gyivbd0wr4j9s9a3cd-python3.13-pandas-2.3.1.drv",
+      "description": "Powerful data structures for data analysis, time series, and statistics",
+      "install_id": "pandas",
+      "license": "BSD-3-Clause",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "name": "python3.13-pandas-2.3.1",
+      "pname": "pandas",
+      "rev": "5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "rev_count": 901419,
+      "rev_date": "2025-11-24T06:39:56Z",
+      "scrape_date": "2025-11-26T03:13:36.347873Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.3.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/zw1x6dwq6w8ylg6zcridxp5d5cn1yfzq-python3.13-pandas-2.3.1-dist",
+        "out": "/nix/store/f0v4495sf6bgsifx635barnnas2zjfx7-python3.13-pandas-2.3.1"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python313Packages.pandas",
+      "broken": false,
+      "derivation": "/nix/store/z0zj0i62xsbyl441zmh6vi1m663d707d-python3.13-pandas-2.3.1.drv",
+      "description": "Powerful data structures for data analysis, time series, and statistics",
+      "install_id": "pandas",
+      "license": "BSD-3-Clause",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "name": "python3.13-pandas-2.3.1",
+      "pname": "pandas",
+      "rev": "5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "rev_count": 901419,
+      "rev_date": "2025-11-24T06:39:56Z",
+      "scrape_date": "2025-11-26T03:23:25.923583Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.3.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/q4d5c7qqgrryna8wqdi69v666mvwxaw3-python3.13-pandas-2.3.1-dist",
+        "out": "/nix/store/952bs53wqnjk26qb6sscr54ws2l51d9r-python3.13-pandas-2.3.1"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python3",
+      "broken": false,
+      "derivation": "/nix/store/nw17mg9ry6n8msbclcsmikflmsxfyc49-python3-3.13.9.drv",
+      "description": "High-level dynamically-typed programming language",
+      "install_id": "python3",
+      "license": "Python-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "name": "python3-3.13.9",
+      "pname": "python3",
+      "rev": "5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "rev_count": 901419,
+      "rev_date": "2025-11-24T06:39:56Z",
+      "scrape_date": "2025-11-26T02:54:02.636551Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.13.9",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/xcjk9ill54kjk8mzgq6yydnx9015lidg-python3-3.13.9"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python3",
+      "broken": false,
+      "derivation": "/nix/store/wwyws5fnssndfzcrzv7wdb7z9aaxdw53-python3-3.13.9.drv",
+      "description": "High-level dynamically-typed programming language",
+      "install_id": "python3",
+      "license": "Python-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "name": "python3-3.13.9",
+      "pname": "python3",
+      "rev": "5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "rev_count": 901419,
+      "rev_date": "2025-11-24T06:39:56Z",
+      "scrape_date": "2025-11-26T03:03:41.667585Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.13.9",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "debug": "/nix/store/zls66rgq3hk2i6xxf8cb8nx24b906jz2-python3-3.13.9-debug",
+        "out": "/nix/store/zc0vzc0vp0amc9iqm3cd542bmim6vh09-python3-3.13.9"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python3",
+      "broken": false,
+      "derivation": "/nix/store/95l2hya2qn3qpn6h215vqpqc69xr4fc0-python3-3.13.9.drv",
+      "description": "High-level dynamically-typed programming language",
+      "install_id": "python3",
+      "license": "Python-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "name": "python3-3.13.9",
+      "pname": "python3",
+      "rev": "5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "rev_count": 901419,
+      "rev_date": "2025-11-24T06:39:56Z",
+      "scrape_date": "2025-11-26T03:13:03.225147Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.13.9",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/84s01mzl74vh69aphpl3rf07pp49pkz0-python3-3.13.9"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python3",
+      "broken": false,
+      "derivation": "/nix/store/2363rc2xjr8msl1bqp7hvzj7ypgckl8s-python3-3.13.9.drv",
+      "description": "High-level dynamically-typed programming language",
+      "install_id": "python3",
+      "license": "Python-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "name": "python3-3.13.9",
+      "pname": "python3",
+      "rev": "5ae3b07d8d6527c42f17c876e404993199144b6a",
+      "rev_count": 901419,
+      "rev_date": "2025-11-24T06:39:56Z",
+      "scrape_date": "2025-11-26T03:22:46.730015Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.13.9",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "debug": "/nix/store/7x8mp12az19wzadrdhjvrp731m9m3lpb-python3-3.13.9-debug",
+        "out": "/nix/store/3lll9y925zz9393sa59h653xik66srjb-python3-3.13.9"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    }
+  ]
+}
